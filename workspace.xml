@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2e07399d-3ad7-45eb-bcb0-40f84b50851a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../ts-kremlin-cup/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ts-kremlin-cup/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ts-kremlin-cup/client/client-static-server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ts-kremlin-cup/client/src/components/common-components/chat/chat.js" beforeDir="false" afterPath="$PROJECT_DIR$/../ts-kremlin-cup/client/src/components/common-components/chat/chat.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ts-kremlin-cup/client/src/components/pages/quiz/quiz-content/quiz-content-main.js" beforeDir="false" afterPath="$PROJECT_DIR$/../ts-kremlin-cup/client/src/components/pages/quiz/quiz-content/quiz-content-main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ts-kremlin-cup/client/src/components/pages/quiz/quiz-content/quiz-content8.js" beforeDir="false" afterPath="$PROJECT_DIR$/../ts-kremlin-cup/client/src/components/pages/quiz/quiz-content/quiz-content8.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ts-kremlin-cup/client/src/components/pages/quiz/quiz-content/quiz-content9.js" beforeDir="false" afterPath="$PROJECT_DIR$/../ts-kremlin-cup/client/src/components/pages/quiz/quiz-content/quiz-content9.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ts-kremlin-cup/client/src/components/pages/quiz/quiz.js" beforeDir="false" afterPath="$PROJECT_DIR$/../ts-kremlin-cup/client/src/components/pages/quiz/quiz.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ts-kremlin-cup/client/src/services/api-axios.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../ts-kremlin-cup/client/src/services/api-axios.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ts-kremlin-cup/client/src/services/get-todays-day.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../ts-kremlin-cup/client/src/services/get-todays-day.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ts-kremlin-cup/server/mongo-scripts/mongo-scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/../ts-kremlin-cup/server/mongo-scripts/mongo-scripts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ts-kremlin-cup/server/photos-storage/users-avatars/630cd2946e2d4e57bf42ed10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ts-kremlin-cup/server/photos-storage/users-avatars/630d444d8b122d472ee52c46.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ts-kremlin-cup/server/photos-storage/users-avatars/630d45c8764700a36745396d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ts-kremlin-cup/server/photos-storage/users-avatars/630dc2a161f767ace7d0c53b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ts-kremlin-cup/server/photos-storage/users-avatars/630dd0470e9b7303b77f4882.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ts-kremlin-cup/server/photos-storage/users-avatars/630dfb2b9735d02404f65a91.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ts-kremlin-cup/server/photos-storage/users-avatars/6311365f030ec60cc4b53aeb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ts-kremlin-cup/server/photos-storage/users-avatars/63170d2f00332b3b3bda8fd1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ts-kremlin-cup/server/photos-storage/users-avatars/6317b142c5823da8104e57d9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ts-kremlin-cup/server/photos-storage/users-avatars/63184e58d4deec27c323be48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ts-kremlin-cup/server/photos-storage/users-avatars/63188ece86ee656acda4bfb3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ts-kremlin-cup/server/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/../ts-kremlin-cup/server/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ts-kremlin-cup/server/services/user-service.js" beforeDir="false" afterPath="$PROJECT_DIR$/../ts-kremlin-cup/server/services/user-service.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Go143BUIZGqTui4CKiMXdvdAYu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/evgen/OneDrive/Рабочий стол/Tech/OpenServer/domains/liubov&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2021.2.3\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e07399d-3ad7-45eb-bcb0-40f84b50851a" name="Changes" comment="" />
+      <created>1667039927810</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667039927810</updated>
+      <workItem from="1667039929191" duration="3004000" />
+      <workItem from="1667063317144" duration="24692000" />
+      <workItem from="1667127331301" duration="3374000" />
+      <workItem from="1667132615885" duration="911000" />
+      <workItem from="1667134395676" duration="189000" />
+      <workItem from="1667554574033" duration="8974000" />
+      <workItem from="1667644756135" duration="12048000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
